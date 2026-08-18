@@ -5,7 +5,7 @@
 <br/>
 
 <!-- Animated ASCII-art portrait, typed out character by character -->
-<img src="readmefile/ascii-avatar.svg" alt="Ahmad Abbas ASCII portrait" width="480"/>
+<img src="/ascii-avatar.svg" alt="Ahmad Abbas ASCII portrait" width="480"/>
 
 </div>
 
