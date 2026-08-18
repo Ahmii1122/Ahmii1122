@@ -61,11 +61,6 @@ I'm a Full-Stack Software Engineer specializing in the **MERN stack**, focused o
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmii1122&layout=compact&theme=radical&hide_border=true" />
 </p>
 
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Ahmii1122/Ahmii1122/output/github-contribution-grid-snake.svg" alt="contribution snake animation" />
-</p>
 
 ---
 
