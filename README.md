@@ -4,6 +4,10 @@
 
 <br/>
 
+
+
+<br/>
+
 <!-- Animated ASCII-art portrait, typed out character by character -->
 <img src="/ascii-avatar.svg" alt="Ahmad Abbas ASCII portrait" width="480"/>
 
